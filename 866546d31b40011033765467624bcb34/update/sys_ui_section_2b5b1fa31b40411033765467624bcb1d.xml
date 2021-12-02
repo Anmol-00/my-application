@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Comments" section_id="2b5b1fa31b40411033765467624bcb1d" sys_domain="global" table="x_707646_needit_ap_needit" version="3" view="New_VIew">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:40:14</sys_created_on>
+            <sys_id>ab5b5fa31b40411033765467624bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_707646_needit_ap_needit" sys_domain="global" view="a7f85f231b40411033765467624bcba0">2b5b1fa31b40411033765467624bcb1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:40:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Comments</caption>
+            <header>false</header>
+            <name>x_707646_needit_ap_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:40:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b5b1fa31b40411033765467624bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_707646_needit_ap_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Needit Application" source="x_707646_needit_ap">866546d31b40011033765467624bcb34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit Application">866546d31b40011033765467624bcb34</sys_scope>
+            <sys_update_name>sys_ui_section_2b5b1fa31b40411033765467624bcb1d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:40:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New VIew" name="New_VIew">a7f85f231b40411033765467624bcba0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

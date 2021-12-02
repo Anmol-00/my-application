@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="notes" section_id="7b7a13a31b40411033765467624bcbeb" sys_domain="global" table="x_707646_needit_ap_needit" version="3" view="New_VIew">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:39:22</sys_created_on>
+            <sys_id>fa2b9ba31b40411033765467624bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="notes" display_value="notes" name="x_707646_needit_ap_needit" sys_domain="global" view="a7f85f231b40411033765467624bcba0">7b7a13a31b40411033765467624bcbeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:39:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:39:22</sys_created_on>
+            <sys_id>7e2b9ba31b40411033765467624bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="notes" display_value="notes" name="x_707646_needit_ap_needit" sys_domain="global" view="a7f85f231b40411033765467624bcba0">7b7a13a31b40411033765467624bcbeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:39:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:39:22</sys_created_on>
+            <sys_id>fe2b9ba31b40411033765467624bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="notes" display_value="notes" name="x_707646_needit_ap_needit" sys_domain="global" view="a7f85f231b40411033765467624bcba0">7b7a13a31b40411033765467624bcbeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:39:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>notes</caption>
+            <header>false</header>
+            <name>x_707646_needit_ap_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 08:36:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b7a13a31b40411033765467624bcbeb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_707646_needit_ap_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Needit Application" source="x_707646_needit_ap">866546d31b40011033765467624bcb34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit Application">866546d31b40011033765467624bcb34</sys_scope>
+            <sys_update_name>sys_ui_section_7b7a13a31b40411033765467624bcbeb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 08:39:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New VIew" name="New_VIew">a7f85f231b40411033765467624bcba0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
